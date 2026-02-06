@@ -1,4 +1,4 @@
-# Trustless
+# Trustless ([Development moved to organization](https://github.com/TrustlessWallet/Trustless))
 
 ## Intro
 Hi!
